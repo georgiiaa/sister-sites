@@ -1,0 +1,20 @@
+h1 {
+  background-color: #FFF0F5;
+  font-family: 'Shadows Into Light', cursive;
+}
+h2{
+  background-color: 	#F0FFF0;
+  font-family: 'Shadows Into Light', cursive;
+}
+h3{
+  background-color: #F0FFFF;
+  font-family: 'Shadows Into Light', cursive;
+}
+p{
+  background-color: #E6E6FA;
+  font-family: 'Reenie Beanie', cursive;
+}
+.flower{
+  width:1300px;
+  height:600px;
+}
